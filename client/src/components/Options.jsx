@@ -89,7 +89,6 @@ const Options = ({children}) => {
               }
             </Grid>
           </Grid>
-
         </form>
       {children}
       </Paper>
